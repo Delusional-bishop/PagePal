@@ -192,7 +192,7 @@
 .cl-socialButtonsBlockButton,
 .cl-socialButtonsBlockButton:hover {
   height: 40px;
-  background-color: #D35100;
+  background-color: #ffbf00;
   color: #fff;
 }
 
@@ -206,9 +206,9 @@
 
 /* ======================== Liveblocks Override */
 .lb-root {
-  --lb-accent-subtle: #000000;
+  --lb-accent-subtle: #151515;
   --lb-radius: 0px;
-  --lb-dynamic-background: #000000;
+  --lb-dynamic-background: #151515;
 }
 
 .lb-comment,
