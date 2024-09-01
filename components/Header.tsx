@@ -8,14 +8,14 @@ const Header = ({children,className}:HeaderProps) => {
       <Link href='/' className='md:flex-1'
       >
         <Image
-        src="/assets/icons/logo.svg"
+        src="/assets/icons/logo.png"
         alt='logo with name'
-        height={32}
-        width={120}
+        height={22}
+        width={50}
         className='hidden md:block'
         />
         <Image
-        src="/assets/icons/logo-icon.svg"
+        src="/assets/icons/logo.png"
         alt='logo'
         height={32}
         width={32}

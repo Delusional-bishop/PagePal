@@ -13,7 +13,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata={
-  title:'OnNet',
+  title:'PagePal',
   description:'Online text and documentation editor'
 
 }

@@ -57,7 +57,7 @@ body {
 }
 
 .editor-inner {
-  background: #0b1527;
+  background: #151515;
   position: relative;
 }
 
@@ -319,7 +319,7 @@ pre::-webkit-scrollbar-thumb {
 .toolbar {
   display: flex;
   margin-bottom: 1px;
-  background: #09111f;
+  background: #151515;
   padding: 4px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -360,7 +360,7 @@ pre::-webkit-scrollbar-thumb {
 }
 
 .toolbar button.toolbar-item.active {
-  background-color: #0f1c34;
+  background-color: #ffbf00;
 }
 
 .toolbar button.toolbar-item.active i {
